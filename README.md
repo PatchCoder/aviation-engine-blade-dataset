@@ -16,6 +16,7 @@ A Comprehensive Image Dataset for Aviation Engine Blade Inspection and Defect De
 | :--------------- | :------------------------------- |
 | **网盘平台**     | **阿里云盘**                   |
 | **网盘下载链接** | **https://www.alipan.com/t/dWtV44YQIi6Nug0ERDj0** |
+| **提取码**     | **aabb**                   |
 | **备注信息**       | **如文件已过期，请通过电子邮件联系 dongyang0524@email.ncu.edu.cn 进行更新**                   |
 
 ## 3. 数据集总体统计
